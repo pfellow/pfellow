@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pfellow
-- 💞️ I’m a fullstack developer (React.js, Node.js, AWS)
+- 👋 Hi, I’m Sergey @pfellow
+- 💞️ I’m a fullstack developer (React.js, Vue.js, Node.js, TypeScript, AWS)
 - 📑 Check out my portfolio website: https://pfellow.me/
 - 📫 How to reach me: pfellow@outlook.co.nz or https://www.linkedin.com/in/sergey-shilovskiy/
 
